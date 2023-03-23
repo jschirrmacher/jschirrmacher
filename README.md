@@ -1,5 +1,6 @@
 ![Metrics](/github-metrics.svg)
 
+<a rel="me" href="https://hessen.social/@joschi64">Find me on Mastodon</a>
 <!--
 **jschirrmacher/jschirrmacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
